@@ -13,6 +13,32 @@
 		A754894225669083001257FE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A754894125669083001257FE /* Preview Assets.xcassets */; };
 		A754894D25669083001257FE /* HW4_crudappTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A754894C25669083001257FE /* HW4_crudappTests.swift */; };
 		A754895825669083001257FE /* HW4_crudappUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A754895725669083001257FE /* HW4_crudappUITests.swift */; };
+		A754896925669315001257FE /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = A754896825669315001257FE /* User.swift */; };
+		A7548973256693D5001257FE /* UserRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7548972256693D5001257FE /* UserRow.swift */; };
+		A754897825669531001257FE /* UserList.swift in Sources */ = {isa = PBXBuildFile; fileRef = A754897725669531001257FE /* UserList.swift */; };
+		A754898025669580001257FE /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = A754897F25669580001257FE /* UserData.swift */; };
+		A754898525669802001257FE /* UserEditor.swift in Sources */ = {isa = PBXBuildFile; fileRef = A754898425669802001257FE /* UserEditor.swift */; };
+		A754898F256A5DE5001257FE /* chartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A754898E256A5DE5001257FE /* chartView.swift */; };
+		A7548994256A609E001257FE /* data.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7548993256A609E001257FE /* data.swift */; };
+		A77E7112256D2AF40035E90E /* musicRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A77E7111256D2AF40035E90E /* musicRowView.swift */; };
+		A77E7118256D2FA50035E90E /* rankView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A77E7117256D2FA50035E90E /* rankView.swift */; };
+		A77E7120256E2D690035E90E /* zhou-jie-lun-jay-chou-with-yang-rui-dai-deng-ni-xia-ke-waiting-for-you-ge-ci-ban-mv.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A77E711D256E2D680035E90E /* zhou-jie-lun-jay-chou-with-yang-rui-dai-deng-ni-xia-ke-waiting-for-you-ge-ci-ban-mv.mp3 */; };
+		A77E7121256E2D690035E90E /* zhou-jie-lun-jay-chou-shuo-hao-bu-ku-wont-cry-with-wu-yue-tian-a-xin-mayday-ashin-official-mv.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A77E711E256E2D680035E90E /* zhou-jie-lun-jay-chou-shuo-hao-bu-ku-wont-cry-with-wu-yue-tian-a-xin-mayday-ashin-official-mv.mp3 */; };
+		A77E7122256E2D690035E90E /* zhou-jie-lun-jay-chou-te-bie-yan-chu-pai-wei-jun-gao-bai-qi-qiu-love-confession-official-mv.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A77E711F256E2D680035E90E /* zhou-jie-lun-jay-chou-te-bie-yan-chu-pai-wei-jun-gao-bai-qi-qiu-love-confession-official-mv.mp3 */; };
+		A77E712E256E2D870035E90E /* shou-zi-e-so-wait-official-music-video.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A77E7126256E2D850035E90E /* shou-zi-e-so-wait-official-music-video.mp3 */; };
+		A77E712F256E2D870035E90E /* zhou-jie-lun-jay-chou-bu-ai-wo-jiu-la-dao-if-you-dont-love-me-its-fine-official-mv-fa-shao-ying-pian-hua-yu-di-qu-chan-lian-di-mei-guo-zhi-chong-qian-er.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A77E7127256E2D860035E90E /* zhou-jie-lun-jay-chou-bu-ai-wo-jiu-la-dao-if-you-dont-love-me-its-fine-official-mv-fa-shao-ying-pian-hua-yu-di-qu-chan-lian-di-mei-guo-zhi-chong-qian-er.mp3 */; };
+		A77E7130256E2D870035E90E /* zhou-jie-lun-jay-chou-x-amei-bu-gai-shouldnt-be-official-mv.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A77E7128256E2D860035E90E /* zhou-jie-lun-jay-chou-x-amei-bu-gai-shouldnt-be-official-mv.mp3 */; };
+		A77E7131256E2D870035E90E /* shou-zi-e-so-change-official-music-video-5k.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A77E7129256E2D860035E90E /* shou-zi-e-so-change-official-music-video-5k.mp3 */; };
+		A77E7132256E2D870035E90E /* shou-zi-e-so-ta-mei-zai-kan-wo-she-aint-watchin-official-music-video-5k.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A77E712A256E2D860035E90E /* shou-zi-e-so-ta-mei-zai-kan-wo-she-aint-watchin-official-music-video-5k.mp3 */; };
+		A77E7134256E2D870035E90E /* shou-zi-e-so-tai-yang-when-the-cloudless-day-comes-lyric-video.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A77E712C256E2D870035E90E /* shou-zi-e-so-tai-yang-when-the-cloudless-day-comes-lyric-video.mp3 */; };
+		A77E7135256E2D870035E90E /* shou-zi-e-so-bo-fu-bo-fu-official-music-video.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A77E712D256E2D870035E90E /* shou-zi-e-so-bo-fu-bo-fu-official-music-video.mp3 */; };
+		A77E7141256E2DB40035E90E /* ericzhou-xing-zhe-yi-hou-bie-zuo-peng-you-the-distance-of-love-official-music-video.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A77E713C256E2DB30035E90E /* ericzhou-xing-zhe-yi-hou-bie-zuo-peng-you-the-distance-of-love-official-music-video.mp3 */; };
+		A77E7142256E2DB40035E90E /* ericzhou-xing-zhe-zhong-yu-liao-jie-zi-you-freedom-official-music-video.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A77E713D256E2DB40035E90E /* ericzhou-xing-zhe-zhong-yu-liao-jie-zi-you-freedom-official-music-video.mp3 */; };
+		A77E7143256E2DB40035E90E /* ericzhou-xing-zhe-wo-hen-kuai-le-im-happy-official-music-video.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A77E713E256E2DB40035E90E /* ericzhou-xing-zhe-wo-hen-kuai-le-im-happy-official-music-video.mp3 */; };
+		A77E7144256E2DB40035E90E /* hua-ju-ni-you-nian-da-xue-ma-pian-wei-qu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A77E713F256E2DB40035E90E /* hua-ju-ni-you-nian-da-xue-ma-pian-wei-qu.mp3 */; };
+		A77E7145256E2DB40035E90E /* ericzhou-xing-zhe-ni-hao-bu-hao-how-have-you-been-official-music-video-yi-han-pin-tu-pian-wei-qu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A77E7140256E2DB40035E90E /* ericzhou-xing-zhe-ni-hao-bu-hao-how-have-you-been-official-music-video-yi-han-pin-tu-pian-wei-qu.mp3 */; };
+		A78DB6D8256BDC63008F2E03 /* piechartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A78DB6D7256BDC63008F2E03 /* piechartView.swift */; };
+		A78DB6E0256BDC8B008F2E03 /* HistogramView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A78DB6DF256BDC8B008F2E03 /* HistogramView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +71,32 @@
 		A754895325669083001257FE /* HW4_crudappUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HW4_crudappUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A754895725669083001257FE /* HW4_crudappUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HW4_crudappUITests.swift; sourceTree = "<group>"; };
 		A754895925669083001257FE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A754896825669315001257FE /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		A7548972256693D5001257FE /* UserRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserRow.swift; sourceTree = "<group>"; };
+		A754897725669531001257FE /* UserList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserList.swift; sourceTree = "<group>"; };
+		A754897F25669580001257FE /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
+		A754898425669802001257FE /* UserEditor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserEditor.swift; sourceTree = "<group>"; };
+		A754898E256A5DE5001257FE /* chartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = chartView.swift; sourceTree = "<group>"; };
+		A7548993256A609E001257FE /* data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = data.swift; sourceTree = "<group>"; };
+		A77E7111256D2AF40035E90E /* musicRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = musicRowView.swift; sourceTree = "<group>"; };
+		A77E7117256D2FA50035E90E /* rankView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rankView.swift; sourceTree = "<group>"; };
+		A77E711D256E2D680035E90E /* zhou-jie-lun-jay-chou-with-yang-rui-dai-deng-ni-xia-ke-waiting-for-you-ge-ci-ban-mv.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "zhou-jie-lun-jay-chou-with-yang-rui-dai-deng-ni-xia-ke-waiting-for-you-ge-ci-ban-mv.mp3"; sourceTree = "<group>"; };
+		A77E711E256E2D680035E90E /* zhou-jie-lun-jay-chou-shuo-hao-bu-ku-wont-cry-with-wu-yue-tian-a-xin-mayday-ashin-official-mv.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "zhou-jie-lun-jay-chou-shuo-hao-bu-ku-wont-cry-with-wu-yue-tian-a-xin-mayday-ashin-official-mv.mp3"; sourceTree = "<group>"; };
+		A77E711F256E2D680035E90E /* zhou-jie-lun-jay-chou-te-bie-yan-chu-pai-wei-jun-gao-bai-qi-qiu-love-confession-official-mv.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "zhou-jie-lun-jay-chou-te-bie-yan-chu-pai-wei-jun-gao-bai-qi-qiu-love-confession-official-mv.mp3"; sourceTree = "<group>"; };
+		A77E7126256E2D850035E90E /* shou-zi-e-so-wait-official-music-video.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "shou-zi-e-so-wait-official-music-video.mp3"; sourceTree = "<group>"; };
+		A77E7127256E2D860035E90E /* zhou-jie-lun-jay-chou-bu-ai-wo-jiu-la-dao-if-you-dont-love-me-its-fine-official-mv-fa-shao-ying-pian-hua-yu-di-qu-chan-lian-di-mei-guo-zhi-chong-qian-er.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "zhou-jie-lun-jay-chou-bu-ai-wo-jiu-la-dao-if-you-dont-love-me-its-fine-official-mv-fa-shao-ying-pian-hua-yu-di-qu-chan-lian-di-mei-guo-zhi-chong-qian-er.mp3"; sourceTree = "<group>"; };
+		A77E7128256E2D860035E90E /* zhou-jie-lun-jay-chou-x-amei-bu-gai-shouldnt-be-official-mv.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "zhou-jie-lun-jay-chou-x-amei-bu-gai-shouldnt-be-official-mv.mp3"; sourceTree = "<group>"; };
+		A77E7129256E2D860035E90E /* shou-zi-e-so-change-official-music-video-5k.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "shou-zi-e-so-change-official-music-video-5k.mp3"; sourceTree = "<group>"; };
+		A77E712A256E2D860035E90E /* shou-zi-e-so-ta-mei-zai-kan-wo-she-aint-watchin-official-music-video-5k.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "shou-zi-e-so-ta-mei-zai-kan-wo-she-aint-watchin-official-music-video-5k.mp3"; sourceTree = "<group>"; };
+		A77E712C256E2D870035E90E /* shou-zi-e-so-tai-yang-when-the-cloudless-day-comes-lyric-video.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "shou-zi-e-so-tai-yang-when-the-cloudless-day-comes-lyric-video.mp3"; sourceTree = "<group>"; };
+		A77E712D256E2D870035E90E /* shou-zi-e-so-bo-fu-bo-fu-official-music-video.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "shou-zi-e-so-bo-fu-bo-fu-official-music-video.mp3"; sourceTree = "<group>"; };
+		A77E713C256E2DB30035E90E /* ericzhou-xing-zhe-yi-hou-bie-zuo-peng-you-the-distance-of-love-official-music-video.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ericzhou-xing-zhe-yi-hou-bie-zuo-peng-you-the-distance-of-love-official-music-video.mp3"; sourceTree = "<group>"; };
+		A77E713D256E2DB40035E90E /* ericzhou-xing-zhe-zhong-yu-liao-jie-zi-you-freedom-official-music-video.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ericzhou-xing-zhe-zhong-yu-liao-jie-zi-you-freedom-official-music-video.mp3"; sourceTree = "<group>"; };
+		A77E713E256E2DB40035E90E /* ericzhou-xing-zhe-wo-hen-kuai-le-im-happy-official-music-video.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ericzhou-xing-zhe-wo-hen-kuai-le-im-happy-official-music-video.mp3"; sourceTree = "<group>"; };
+		A77E713F256E2DB40035E90E /* hua-ju-ni-you-nian-da-xue-ma-pian-wei-qu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "hua-ju-ni-you-nian-da-xue-ma-pian-wei-qu.mp3"; sourceTree = "<group>"; };
+		A77E7140256E2DB40035E90E /* ericzhou-xing-zhe-ni-hao-bu-hao-how-have-you-been-official-music-video-yi-han-pin-tu-pian-wei-qu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ericzhou-xing-zhe-ni-hao-bu-hao-how-have-you-been-official-music-video-yi-han-pin-tu-pian-wei-qu.mp3"; sourceTree = "<group>"; };
+		A78DB6D7256BDC63008F2E03 /* piechartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = piechartView.swift; sourceTree = "<group>"; };
+		A78DB6DF256BDC8B008F2E03 /* HistogramView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistogramView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +149,32 @@
 			children = (
 				A754893A2566907F001257FE /* HW4_crudappApp.swift */,
 				A754893C2566907F001257FE /* ContentView.swift */,
+				A77E7111256D2AF40035E90E /* musicRowView.swift */,
+				A77E7117256D2FA50035E90E /* rankView.swift */,
+				A7548993256A609E001257FE /* data.swift */,
+				A754898E256A5DE5001257FE /* chartView.swift */,
+				A78DB6D7256BDC63008F2E03 /* piechartView.swift */,
+				A78DB6DF256BDC8B008F2E03 /* HistogramView.swift */,
+				A754896825669315001257FE /* User.swift */,
+				A754897725669531001257FE /* UserList.swift */,
+				A754898425669802001257FE /* UserEditor.swift */,
+				A754897F25669580001257FE /* UserData.swift */,
+				A7548972256693D5001257FE /* UserRow.swift */,
+				A77E711E256E2D680035E90E /* zhou-jie-lun-jay-chou-shuo-hao-bu-ku-wont-cry-with-wu-yue-tian-a-xin-mayday-ashin-official-mv.mp3 */,
+				A77E711F256E2D680035E90E /* zhou-jie-lun-jay-chou-te-bie-yan-chu-pai-wei-jun-gao-bai-qi-qiu-love-confession-official-mv.mp3 */,
+				A77E711D256E2D680035E90E /* zhou-jie-lun-jay-chou-with-yang-rui-dai-deng-ni-xia-ke-waiting-for-you-ge-ci-ban-mv.mp3 */,
+				A77E712D256E2D870035E90E /* shou-zi-e-so-bo-fu-bo-fu-official-music-video.mp3 */,
+				A77E7129256E2D860035E90E /* shou-zi-e-so-change-official-music-video-5k.mp3 */,
+				A77E712A256E2D860035E90E /* shou-zi-e-so-ta-mei-zai-kan-wo-she-aint-watchin-official-music-video-5k.mp3 */,
+				A77E712C256E2D870035E90E /* shou-zi-e-so-tai-yang-when-the-cloudless-day-comes-lyric-video.mp3 */,
+				A77E7126256E2D850035E90E /* shou-zi-e-so-wait-official-music-video.mp3 */,
+				A77E7127256E2D860035E90E /* zhou-jie-lun-jay-chou-bu-ai-wo-jiu-la-dao-if-you-dont-love-me-its-fine-official-mv-fa-shao-ying-pian-hua-yu-di-qu-chan-lian-di-mei-guo-zhi-chong-qian-er.mp3 */,
+				A77E7128256E2D860035E90E /* zhou-jie-lun-jay-chou-x-amei-bu-gai-shouldnt-be-official-mv.mp3 */,
+				A77E7140256E2DB40035E90E /* ericzhou-xing-zhe-ni-hao-bu-hao-how-have-you-been-official-music-video-yi-han-pin-tu-pian-wei-qu.mp3 */,
+				A77E713E256E2DB40035E90E /* ericzhou-xing-zhe-wo-hen-kuai-le-im-happy-official-music-video.mp3 */,
+				A77E713C256E2DB30035E90E /* ericzhou-xing-zhe-yi-hou-bie-zuo-peng-you-the-distance-of-love-official-music-video.mp3 */,
+				A77E713D256E2DB40035E90E /* ericzhou-xing-zhe-zhong-yu-liao-jie-zi-you-freedom-official-music-video.mp3 */,
+				A77E713F256E2DB40035E90E /* hua-ju-ni-you-nian-da-xue-ma-pian-wei-qu.mp3 */,
 				A754893E25669083001257FE /* Assets.xcassets */,
 				A754894325669083001257FE /* Info.plist */,
 				A754894025669083001257FE /* Preview Content */,
@@ -234,7 +312,22 @@
 			buildActionMask = 2147483647;
 			files = (
 				A754894225669083001257FE /* Preview Assets.xcassets in Resources */,
+				A77E7135256E2D870035E90E /* shou-zi-e-so-bo-fu-bo-fu-official-music-video.mp3 in Resources */,
 				A754893F25669083001257FE /* Assets.xcassets in Resources */,
+				A77E7142256E2DB40035E90E /* ericzhou-xing-zhe-zhong-yu-liao-jie-zi-you-freedom-official-music-video.mp3 in Resources */,
+				A77E7131256E2D870035E90E /* shou-zi-e-so-change-official-music-video-5k.mp3 in Resources */,
+				A77E7120256E2D690035E90E /* zhou-jie-lun-jay-chou-with-yang-rui-dai-deng-ni-xia-ke-waiting-for-you-ge-ci-ban-mv.mp3 in Resources */,
+				A77E7132256E2D870035E90E /* shou-zi-e-so-ta-mei-zai-kan-wo-she-aint-watchin-official-music-video-5k.mp3 in Resources */,
+				A77E7134256E2D870035E90E /* shou-zi-e-so-tai-yang-when-the-cloudless-day-comes-lyric-video.mp3 in Resources */,
+				A77E7121256E2D690035E90E /* zhou-jie-lun-jay-chou-shuo-hao-bu-ku-wont-cry-with-wu-yue-tian-a-xin-mayday-ashin-official-mv.mp3 in Resources */,
+				A77E7141256E2DB40035E90E /* ericzhou-xing-zhe-yi-hou-bie-zuo-peng-you-the-distance-of-love-official-music-video.mp3 in Resources */,
+				A77E712E256E2D870035E90E /* shou-zi-e-so-wait-official-music-video.mp3 in Resources */,
+				A77E7144256E2DB40035E90E /* hua-ju-ni-you-nian-da-xue-ma-pian-wei-qu.mp3 in Resources */,
+				A77E7130256E2D870035E90E /* zhou-jie-lun-jay-chou-x-amei-bu-gai-shouldnt-be-official-mv.mp3 in Resources */,
+				A77E7122256E2D690035E90E /* zhou-jie-lun-jay-chou-te-bie-yan-chu-pai-wei-jun-gao-bai-qi-qiu-love-confession-official-mv.mp3 in Resources */,
+				A77E712F256E2D870035E90E /* zhou-jie-lun-jay-chou-bu-ai-wo-jiu-la-dao-if-you-dont-love-me-its-fine-official-mv-fa-shao-ying-pian-hua-yu-di-qu-chan-lian-di-mei-guo-zhi-chong-qian-er.mp3 in Resources */,
+				A77E7145256E2DB40035E90E /* ericzhou-xing-zhe-ni-hao-bu-hao-how-have-you-been-official-music-video-yi-han-pin-tu-pian-wei-qu.mp3 in Resources */,
+				A77E7143256E2DB40035E90E /* ericzhou-xing-zhe-wo-hen-kuai-le-im-happy-official-music-video.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,8 +352,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A77E7118256D2FA50035E90E /* rankView.swift in Sources */,
+				A754898025669580001257FE /* UserData.swift in Sources */,
 				A754893D2566907F001257FE /* ContentView.swift in Sources */,
+				A7548994256A609E001257FE /* data.swift in Sources */,
+				A754898525669802001257FE /* UserEditor.swift in Sources */,
 				A754893B2566907F001257FE /* HW4_crudappApp.swift in Sources */,
+				A77E7112256D2AF40035E90E /* musicRowView.swift in Sources */,
+				A7548973256693D5001257FE /* UserRow.swift in Sources */,
+				A754897825669531001257FE /* UserList.swift in Sources */,
+				A78DB6D8256BDC63008F2E03 /* piechartView.swift in Sources */,
+				A754896925669315001257FE /* User.swift in Sources */,
+				A754898F256A5DE5001257FE /* chartView.swift in Sources */,
+				A78DB6E0256BDC8B008F2E03 /* HistogramView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
